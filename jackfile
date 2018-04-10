@@ -3,3 +3,5 @@ modify 1
 
 modify jackfile at local git
 modify jackfile at GitHub
+
+modify jackfile at github fetch merge
